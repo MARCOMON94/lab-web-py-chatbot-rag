@@ -1,0 +1,9 @@
+La empresa TecnoAyuda ofrece atención al cliente de lunes a viernes de 9:00 a 18:00.
+
+Los sábados solo se atienden incidencias urgentes entre las 10:00 y las 14:00.
+
+Los domingos y festivos no hay atención ordinaria.
+
+Las incidencias críticas relacionadas con pérdida de acceso, servidores caídos o problemas de seguridad pueden marcarse como urgentes.
+
+El tiempo habitual de respuesta para incidencias normales es de 24 a 48 horas laborables.

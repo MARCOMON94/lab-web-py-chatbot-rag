@@ -1,0 +1,11 @@
+{
+  "respuesta": "La empresa TecnoAyuda ofrece atención al cliente de lunes a viernes de 9:00 a 18:00. Los sábados solo se atienden incidencias urgentes entre las 10:00 y las 14:00. No hay atención ordinaria los domingos ni festivos.",
+  "fuentes": [
+    "soporte_tecnico.txt",
+    "horarios.txt",
+    "servicios.txt"
+  ],
+  "session_id": "sesion_prueba",
+  "fragmentos_usados": 3,
+  "enviado_al_modelo": true
+}

@@ -1,0 +1,9 @@
+TecnoAyuda ofrece soporte técnico para ordenadores, redes domésticas, impresoras, correo electrónico y pequeñas páginas web.
+
+El soporte puede realizarse de forma remota o presencial, según el tipo de incidencia.
+
+Para solicitar soporte, el cliente debe indicar su nombre, el problema principal, el dispositivo afectado y una breve descripción de lo ocurrido.
+
+No se recomienda enviar contraseñas por correo ni por chat.
+
+Si es necesario acceder a una cuenta, se usará una conexión segura y temporal.

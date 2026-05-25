@@ -1,0 +1,9 @@
+TecnoAyuda ofrece servicios de mantenimiento informático, instalación de software, limpieza de equipos, configuración de redes y asesoramiento tecnológico.
+
+También ofrece planes mensuales para pequeñas empresas.
+
+El plan básico incluye revisión remota mensual y soporte por correo.
+
+El plan profesional incluye soporte prioritario, revisión de seguridad y asistencia remota ampliada.
+
+No se ofrecen servicios de recuperación forense avanzada ni reparación de componentes electrónicos a nivel de placa.

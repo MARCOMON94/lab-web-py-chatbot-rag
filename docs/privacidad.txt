@@ -1,0 +1,9 @@
+TecnoAyuda protege la privacidad de sus clientes y solo recoge los datos necesarios para prestar el servicio.
+
+Los datos pueden incluir nombre, correo electrónico, teléfono, descripción de la incidencia y datos técnicos del dispositivo.
+
+No se deben compartir contraseñas, números de tarjeta, documentos personales ni información sensible a través del chatbot.
+
+Si una consulta contiene datos personales, el sistema debe advertir al usuario antes de enviar la información al modelo.
+
+Los documentos internos no deben mostrarse completos en los registros de actividad.
